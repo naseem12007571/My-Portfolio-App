@@ -1,0 +1,31 @@
+[
+  {
+    "key": 1,
+    "title": "Notes Saver Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2019/09/20/10/40/write-4491416_1280.jpg",
+    "description": "Developed with React.js for a seamless user experience.",
+    "source": "https://github.com/naseem12007571/Notes-Saver-React-App"
+  },
+  {
+    "key": 2,
+    "title": "My University Website",
+    "imageSrc": "https://happenings.lpu.in/wp-content/uploads/2024/02/amission-lpu.jpg",
+    "description": "Crafted using React.js for efficient and dynamic UI development.",
+    "source": "https://github.com/naseem12007571/LPU_Website"
+  },
+  {
+    "key": 3,
+    "title": "Spotify App",
+    "imageSrc": "https://cdn.pixabay.com/photo/2017/08/10/04/15/android-2618093_1280.jpg",
+    "description":"This project was built using pure HTML, CSS, and JavaScript",
+   
+    "source": "https://github.com/naseem12007571/Spotify-Clone"
+  },
+  {
+    "key": 4,
+    "title": "Sudoku Solver Application",
+    "imageSrc": "https://cdn.pixabay.com/photo/2018/05/03/12/16/leisure-3371229_1280.jpg",
+    "description": "A frontend project powered by HTML, CSS, and JavaScript.",
+    "source": "https://github.com/naseem12007571/sudoku-solver"
+  }
+]
